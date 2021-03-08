@@ -275,7 +275,7 @@ packages:
     description:
       path: loggy
       ref: null-safety
-      resolved-ref: c4226dce0665bfbd6f54b6feeb6a959fd53e56c5
+      resolved-ref: "122483593389a148a086478a2c92635a18d482bb"
       url: "https://github.com/tierratechnologies/floggy.git"
     source: git
     version: "2.0.0"
